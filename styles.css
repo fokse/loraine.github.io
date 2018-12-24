@@ -1,0 +1,19 @@
+.img-body {
+  background: url(./images/ToEUMhnBi6k.jpg) repeat-y;
+  background-size: 100%;
+}
+
+.head-text {
+  color: #fff;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.main-content {
+  margin: 3% 15% 0 15%;
+}
+
+.snoop {
+  position: absolute;
+  height: 100px;
+}
